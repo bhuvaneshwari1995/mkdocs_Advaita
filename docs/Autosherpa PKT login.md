@@ -2,18 +2,20 @@
 
 Welcome to the documentation for logging in to transmon Autosherpa! This guide will walk you through the steps to log in to your account and access its features.
 
-## **LOGGING IN**
+**LOGGING IN**
 
 To log in to your Account , follow these steps:
 
-### **STEP 1: Open the link**
+**STEP 1: Open the link**
+
 Open a _web browser_ and navigate to the link
 [Autosherpa capture PKT](https://pkt-test.transmonqa.in/en/myprofile/login/)
 
 The login page will look like this
 ![Main webpage](PKT mainpage.PNG)
 
-### **STEP 2: Fill the details**
+**STEP 2: Fill the details**
+
 >> **Username Details** 
 
     - Need to enter username/login ID
@@ -28,7 +30,7 @@ The login page will look like this
        - Atleast 1 Special characters (!@#$%^&*(), etc.)
 
 
-### **STEP 3: Click on Sign In**
+**STEP 3: Click on Sign In**
 
 If *Valid Details* are filled in during the sign-in process, the user will be *logged in* into the application.
 
@@ -48,7 +50,7 @@ and the page would look like this
 
 If you dont remember the password click on forgot password *Follow Step 4*
 
-### **STEP 4: If not able to login**
+**STEP 4: If not able to login**
 
 
 **UNDER DEVLOPMENT**

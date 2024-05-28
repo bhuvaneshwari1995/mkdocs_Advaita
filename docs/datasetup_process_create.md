@@ -1,4 +1,4 @@
-# DATA SETUP-PROCESS
+# **DATA SETUP-PROCESS**
 
 ## **PROCESS**
 
@@ -8,8 +8,7 @@ once your logged in on the left side there are list of functions which can selec
 
  ![DATA SETUP PAGE](datasetup page.PNG)
 
-
->>**STEP A :Click on Process**
+**STEP 2 :Click on Process**
 
 ![PROCESS FORM](Process process.png)
 
@@ -17,9 +16,7 @@ once your logged in on the left side there are list of functions which can selec
 
 ![PROCESS FORM](Process Create.png)
 
-
->>**STEP B :Click on the 1st option i.e., Process**
-
+**STEP 3 :Click on the 1st option i.e., Process**
 
 ![PROCESS FORM](highlighted process.png)
 
@@ -33,13 +30,13 @@ User needs to fill in the Description  in a textarea
  
 Finally,user can select the status from the dropdown menu with "Active" or "Inactive" options.
 
-**STEP 2:Click On Save**
+**STEP 4:Click On Save**
 
 ![PROCESS FORM](ProcessSave.png)
 
 If the other option is selected 
 
-**STEP 3:Click on Save and Continue**
+**STEP 5:Click on Save and Continue**
 
 ![PROCESS FORM](process save and continue.png)
 

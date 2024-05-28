@@ -2,13 +2,13 @@
 
 On the search bar there is *PROCESS SETUP* button when the user clicks on it the a dialouge box is popped up.
  
- **Click on Process Setup**
+**STEP 1:Click on Process Setup**
 
- ![Process Setup](process setup.png)
+![Process Setup](process setup.png)
 
- **Process setup dailogue box**
+**STEP 2:Process setup dailogue box**
 
- ![Process Setup Form](process setup form.PNG)
+![Process Setup Form](process setup form.PNG)
 
 In that dialogue box there is an option called *Single Process Only* it is toggle option.
 
@@ -31,7 +31,7 @@ the user needs can search the
 
 Once the user fills the details click on save 
 
-**Click on Save**
+**STEP 3:Click on Save**
 
 ![Process Setup save](process setup save .png)
 
