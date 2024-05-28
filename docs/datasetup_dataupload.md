@@ -1,6 +1,7 @@
 
-# DATA SETUP_DATA UPLOAD_MANUAL UPLOAD
+# DATA SETUP-DATA UPLOAD
 
+## MANUAL UPLOAD
 
 **Step 1:Click on Data Setup**
 
@@ -66,7 +67,7 @@ if the user has to search for particular can be searched using the search bar
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
-# DATA SETUP_DATA UPLOAD_SOFT INTEGRATION 
+## SOFT INTEGRATION 
 
 
 **Step 1:Click on Data Upload**
@@ -125,7 +126,7 @@ If user has to search particular file can search using the search field
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-# DATA SETUP_DATA UPLOAD_HARD INTEGRATION 
+## HARD INTEGRATION 
 
 
 **Step 1:Click on Data Upload**
@@ -169,7 +170,7 @@ and the form will be
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-# DATA SETUP_DATA UPLOAD_REFER PREVIOUS STAGE 
+## REFER PREVIOUS STAGE 
 
 **Step 1:Click on Data Upload**
 
