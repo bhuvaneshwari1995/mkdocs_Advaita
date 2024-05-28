@@ -18,12 +18,12 @@
 
  ![SUB SUB PROCESS FORM](sub sub process save and update .png)
  
- once the required information is filled The form will be updated and closed 
+ once the required information is filled The form will be updated and closed.
 
  The Proces will be created and will displayed below 
 
 ![CREATE PROCESS](Created Process.png)
 
-If the created process is not seen in the below list user can search 
+If the created process is not seen in the below list, user can search in the search bar 
 
 ![CREATE PROCESS SEARCH](Process Search.png)

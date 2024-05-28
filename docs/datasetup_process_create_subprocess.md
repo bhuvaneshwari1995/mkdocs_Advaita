@@ -19,7 +19,7 @@
 
  ![SUB PROCESS FORM](sub process save.png)
  
- The form will be closed 
+ if the save option is selected The form will be closed.
 
  If the other option is selected 
 
