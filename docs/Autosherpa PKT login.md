@@ -1,4 +1,4 @@
-# PKT LOGIN DOCUMENTATION
+# **PKT LOGIN DOCUMENTATION**
 
 Welcome to the documentation for logging in to transmon Autosherpa! This guide will walk you through the steps to log in to your account and access its features.
 
@@ -9,6 +9,7 @@ To log in to your Account , follow these steps:
 **STEP 1: Open the link**
 
 Open a _web browser_ and navigate to the link
+
 [Autosherpa capture PKT](https://pkt-test.transmonqa.in/en/myprofile/login/)
 
 The login page will look like this
@@ -61,4 +62,3 @@ If you dont remember the password click on forgot password *Follow Step 4*
 2. After entering and confirming the new password, the user submits the form. The system updates the password for the user's account with the new password.
 
 3. The user receives confirmation that their password has been successfully reset. They can now use the new password to sign in to their account.
-

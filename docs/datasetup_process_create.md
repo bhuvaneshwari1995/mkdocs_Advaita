@@ -2,7 +2,7 @@
 
 ## **PROCESS**
 
-once your logged in on the left side there are list of functions which can selected.
+Once your logged in on the left side there are list of functions which can selected.
 
 **STEP 1 :Click On Data Setup**
 
@@ -42,8 +42,6 @@ If the other option is selected
 
 once you click on save and continue user will be taken to the next form i.e., sub process
 
---------------------------------------------------------------------------------------------------------------------
-
 # **SUB PROCESS**
 
 **STEP 1 :Click on the 2nd option i.e., Sub Process**
@@ -75,8 +73,6 @@ If the other option is selected
 ![SUB PROCESS FORM](sub process save and continue .png)
 
 once you click on save and continue user will be taken to the next form i.e., Sub Sub process
-
----------------------------------------------------------------------------------------------------------------------
 
 ## **SUB SUB PROCESS**
 

@@ -1,4 +1,4 @@
-# DATA SETUP-META DATA
+# **DATA SETUP-META DATA**
 
 **STEP 1:Click on Data Setup**
 
@@ -40,6 +40,8 @@ users can create rows of data dynamically and also have the ability to Remove an
 once the user clicks on the *Create* the metadata is created successfully and a message as displayed 
 
 ![DATA SETUP METADATA](metadata sucess.PNG)
+
+**Created Metadata**
 
 once the data set is created it will be displayed below 
 

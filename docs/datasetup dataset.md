@@ -1,18 +1,18 @@
-# DATA SETUP-DATASET
+# **DATA SETUP-DATASET**
 
-**Step 1:Click on Data Setup**
+**STEP 1:Click on Data Setup**
 
 Once the user is logged in click on *Data setup* 
 
 and the page will look like this
 ![DATA SETUP PAGE](datasetup page.PNG)
 
-**Step 2:Click on Dataset**
+**STEP 2:Click on Dataset**
 ![DATA SETUP PAGE](datasetup dataset.png)
 
 on the top right corner there is *Create* button
 
-**Step 3:Click on Create**
+**STEP 3:Click on Create**
 
 ![DATA SETUP PAGE](datasetup dataset create.png)
 

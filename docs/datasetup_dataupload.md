@@ -146,6 +146,14 @@ and the form will be
 
 ![DATA SETUP DATA UPLOAD HARD INTEGRATION](HI API.png)
 
+once the details are filled and created the same thing will be displayed below 
+
+![DATA SETUP DATA UPLOAD HARD INTEGRATION](HI CREATED.png)
+
+and if the user needs to search any particular file can serach using the search field 
+
+![DATA SETUP DATA UPLOAD HARD INTEGRATION](HI SEARCH.png)
+
 ## **REFER PREVIOUS STAGE**
 
 **STEP 1:Click on Data Upload**

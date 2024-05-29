@@ -1,4 +1,4 @@
-# DATA SETUP-PROCESS-PROCESS SETUP
+# **DATA SETUP-PROCESS-PROCESS SETUP**
 
 On the search bar there is *PROCESS SETUP* button when the user clicks on it the a dialouge box is popped up.
  
@@ -38,4 +38,3 @@ Once the user fills the details click on save
 The pop box shows success and the process has been updated.
 
 ![Process Setup save](processsetup save.PNG)
-
